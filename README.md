@@ -1,2 +1,2 @@
-# Vehicle-Activity-2.github
+Lab-Activity-3-Vehicle
 
